@@ -42,17 +42,18 @@ Users can create, move, and resize tasks, track progress, and view dependencies.
 npm install
 This will install all required packages for the project.
 
-2. Run the project in development mode
+### **2. Run the project in development mode**
 
+```bash
 npm run dev
 Open your browser at http://localhost:5173 to see the app running.
 
-3. Run Storybook (optional)
-
+### **3. Run Storybook (optional)**
+```bash
 npm run storybook
 This opens Storybook, where you can preview and test individual components like TaskBar or TimelineGrid.
 
-4. Build for production
-
+### **4. Build for production**
+```bash
 npm run build
 This will create a production-ready build in the dist/ folder.
