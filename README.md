@@ -4,6 +4,9 @@
 An interactive timeline / Gantt chart application built using **React** and **TypeScript**.  
 Users can create, move, and resize tasks, track progress, and view dependencies.
 
+<img width="1913" height="837" alt="image" src="https://github.com/user-attachments/assets/f5aba2da-afcb-4495-8350-6b0bbb41cc44" />
+
+
 ---
 
 ## **Features**
